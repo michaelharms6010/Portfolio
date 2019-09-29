@@ -1,13 +1,19 @@
 import React from 'react';
-import logo from './logo.svg';
+import { Route } from 'react-router-dom'
+import LandingPage from './components/LandingPage'
 import './App.css';
+import AboutMe from './components/AboutMe'
+import Projects from './components/Projects'
+import Contact from './components/Contact'
 
 function App() {
   return (
     <div className="App">
-   Hello I am a testing portfolio website
-   <h1>This is added info for a second commit</h1>
-   <h2>This is more added info for a third commit </h2>
+
+      <Route path="/" component={LandingPage} />
+      <Route path="/" component={AboutMe} />
+      <Route path="/" component={Projects} />
+      <Route path="/" component={Contact} />
     </div>
   );
 }
