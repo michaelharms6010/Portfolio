@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.987fae8f.chunk.css",
+    "main.css": "/Portfolio/static/css/main.fd8dd620.chunk.css",
     "main.js": "/Portfolio/static/js/main.e55e20ae.chunk.js",
     "main.js.map": "/Portfolio/static/js/main.e55e20ae.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.29d4378a.js",
@@ -8,9 +8,9 @@
     "static/js/2.5266cb4b.chunk.js": "/Portfolio/static/js/2.5266cb4b.chunk.js",
     "static/js/2.5266cb4b.chunk.js.map": "/Portfolio/static/js/2.5266cb4b.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.1630eac1eefdecf0b9e27764829241cb.js": "/Portfolio/precache-manifest.1630eac1eefdecf0b9e27764829241cb.js",
+    "precache-manifest.fd8b9d4bf864ca34945b183ab51e1bad.js": "/Portfolio/precache-manifest.fd8b9d4bf864ca34945b183ab51e1bad.js",
     "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/main.987fae8f.chunk.css.map": "/Portfolio/static/css/main.987fae8f.chunk.css.map",
+    "static/css/main.fd8dd620.chunk.css.map": "/Portfolio/static/css/main.fd8dd620.chunk.css.map",
     "static/media/BookrBook.JPG": "/Portfolio/static/media/BookrBook.b3ba4c89.JPG",
     "static/media/BookrList.jpeg": "/Portfolio/static/media/BookrList.9c6ff114.jpeg",
     "static/media/CroppedProfile.png": "/Portfolio/static/media/CroppedProfile.89347a18.png",
