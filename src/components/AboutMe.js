@@ -17,8 +17,7 @@ function AboutMe() {
                <div className="about-container-content">
                     <div className="about-content-container">
                          <h5 className="about-subtitle">Where I've been</h5>
-                         <p>Growing up, I spent <span className="about-accents">6 years studying Buddhism</span> with monks and was class president in high school. In college, I became a brother of Sigma Chi, the recruitment chairman of Mu Delta, and shadowed the leading pioneer of <span className="about-accents">ketamine psychotherapy.</span> </p>
-                         <p>I'm proud to say these experiences have given me a unique skillset and perspective on life. It’s really <span className="about-italics">shaped who I am today</span>.</p>
+                         <p>I was born in California, where I spent <span className="about-accents">6 years studying Buddhism</span> with monks and was class president in high school. In college, I became a brother of Sigma Chi, the recruitment chairman of Mu Delta, and shadowed the leading pioneer of <span className="about-accents">ketamine psychotherapy.</span> </p>
                     </div>
 
                     <div className="about-content-container">
@@ -29,8 +28,8 @@ function AboutMe() {
 
                     <div className="about-content-container">
                          <h5 className="about-subtitle">What I hope to do</h5>
-                         <p>To keep it simple, I want to keep finding <span className="about-accents">opportunities to grow</span>, both personally and professionally. I hope to do meaningful work for a company that provides a meaningful product. If we’re getting to specifics, a smaller to medium-sized company that’s fast paced and allows room for growth would be a dream. </p>
-                         <p>And <span className="about-italics">maybe</span> I’ll get back into rowing. </p>
+                         <p>To keep it simple, I want to keep finding <span className="about-accents">opportunities to grow</span>, both personally and professionally. Anything within the realm of working for a small to mid-sized company that's challenging and fast-paced would be an absolute dream.</p>
+                    
                     </div>
                </div>
 

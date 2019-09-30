@@ -228,21 +228,22 @@ nav a:hover{
   margin-bottom:30px;
 }
 .about-subtitle{
-  font-size:1.7rem;
+  font-size:1.8rem;
   color:#fd746d;
   letter-spacing:1.3px;
   margin:0;
-
 }
 .about-content-container{
-  font-size:1.2rem;
-  line-height:1.4;
+  word-spacing:1px;
+  color:#2f3039;
+  font-size:1.3rem;
+  line-height:1.5;
   font-weight:500;
   width:28%;
   padding:15px;
   box-shadow: 0 10px 20px rgba(0,0 ,0, .25);
-
 }
+
 .about-container-content{
   display:flex;
   flex-wrap:wrap;
@@ -252,9 +253,6 @@ nav a:hover{
   font-weight:bold;
 }
 
-.about-italics{
-  font-style:italic;
-}
 
 
 
