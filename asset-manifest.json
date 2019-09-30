@@ -1,16 +1,27 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.b100e6da.chunk.css",
-    "main.js": "/Portfolio/static/js/main.ad90258d.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.ad90258d.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.204fbcb2.chunk.css",
+    "main.js": "/Portfolio/static/js/main.efef2a2e.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.efef2a2e.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.29d4378a.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.29d4378a.js.map",
-    "static/js/2.d2fcb533.chunk.js": "/Portfolio/static/js/2.d2fcb533.chunk.js",
-    "static/js/2.d2fcb533.chunk.js.map": "/Portfolio/static/js/2.d2fcb533.chunk.js.map",
+    "static/js/2.5266cb4b.chunk.js": "/Portfolio/static/js/2.5266cb4b.chunk.js",
+    "static/js/2.5266cb4b.chunk.js.map": "/Portfolio/static/js/2.5266cb4b.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.5cb7e6e2a63e282d430d379400d72722.js": "/Portfolio/precache-manifest.5cb7e6e2a63e282d430d379400d72722.js",
+    "precache-manifest.ec7f979eca3b36e5c1d0fdaed37798d9.js": "/Portfolio/precache-manifest.ec7f979eca3b36e5c1d0fdaed37798d9.js",
     "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/Portfolio/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/Portfolio/static/media/logo.25bf045c.svg"
+    "static/css/main.204fbcb2.chunk.css.map": "/Portfolio/static/css/main.204fbcb2.chunk.css.map",
+    "static/media/BookrBook.JPG": "/Portfolio/static/media/BookrBook.b3ba4c89.JPG",
+    "static/media/BookrList.jpeg": "/Portfolio/static/media/BookrList.9c6ff114.jpeg",
+    "static/media/CroppedProfile.png": "/Portfolio/static/media/CroppedProfile.89347a18.png",
+    "static/media/Email.svg": "/Portfolio/static/media/Email.8e626ada.svg",
+    "static/media/Github.png": "/Portfolio/static/media/Github.438c93c0.png",
+    "static/media/ImmunifyPicture.png": "/Portfolio/static/media/ImmunifyPicture.5a459853.png",
+    "static/media/KevinHome.png": "/Portfolio/static/media/KevinHome.ee071ffa.png",
+    "static/media/LinkedInIcon.svg": "/Portfolio/static/media/LinkedInIcon.b554c481.svg",
+    "static/media/Logo.png": "/Portfolio/static/media/Logo.45a573fd.png",
+    "static/media/Marvel1.png": "/Portfolio/static/media/Marvel1.a916c87b.png",
+    "static/media/ReactIcon.svg": "/Portfolio/static/media/ReactIcon.f0793d9f.svg",
+    "static/media/Twitter.svg": "/Portfolio/static/media/Twitter.0106ee41.svg"
   }
 }
