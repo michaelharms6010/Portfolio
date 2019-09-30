@@ -45,7 +45,7 @@ function Project() {
                </div>
 
                {/* Bookr */}
-               <div className="individual-project">
+               <div className="individual-project bookr">
                     <div className='immunify-picture'>
                          <div className="carousel-container">
                               <Carousel defaultWait={3000}>
