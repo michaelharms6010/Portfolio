@@ -17,18 +17,17 @@ function AboutMe() {
                <div className="about-container-content">
                     <div className="about-content-container">
                          <h5 className="about-subtitle">Where I've been</h5>
-                         <p>I was born in California, where I spent <span className="about-accents">6 years studying Buddhism</span> with monks and was class president in high school. In college, I became a brother of Sigma Chi, the recruitment chairman of Mu Delta, and shadowed the leading pioneer of <span className="about-accents">ketamine psychotherapy.</span> </p>
+                         <p><span className="about-accents">Everywhere I go, I try and surround myself in unfamiliar environments. </span>You get to meet some pretty cool people that way. Growing up, I spent 6 years studying Buddhism with monks, ran for office in high school, and joined two fraternities in college. I also volunteered as a paramedic at festivals, shadowed the leading pioneer of ketamine psychotherapy, and worked with the homeless population for a few years. <span className="about-accents">All of this has broadened my understanding of people and myself.</span> </p>
                     </div>
 
                     <div className="about-content-container">
                          <h5 className="about-subtitle">What I'm doing</h5>
-                         <p>After graduating from University of California, Santa Barbara with a <span className="about-accents">degree in Biology</span>, I threw in my scrubs to study<span className="about-accents"> full stack web development</span> at Lambda School. If I’ve learned anything from coding thus far, it’s that <span className="about-italics">languages are always changing and evolving - and I plan on doing the same.</span></p>
-                         {/* <p>And I'd like to say surfing is my hobby, but to be honest with you after nearly drowning twice - once during a microburst in the middle of the ocean and again while looking for bioluminescent algae - I've decided to give it a little break. </p> */}
+                         <p>After graduating from University of California, Santa Barbara with a <span className="about-accents">degree in Biology</span>, I threw in my scrubs to study<span className="about-accents"> full stack web development</span> at Lambda School.</p> <p>If I’ve learned anything from coding thus far, it’s that <span className="about-italics">languages are always changing and evolving - and I plan on doing the same.</span></p>
                     </div>
 
                     <div className="about-content-container">
                          <h5 className="about-subtitle">What I hope to do</h5>
-                         <p>To keep it simple, I want to keep finding <span className="about-accents">opportunities to grow</span>, both personally and professionally. Anything within the realm of working for a small to mid-sized company that's challenging and fast-paced would be an absolute dream.</p>
+                         <p>Being able to empathize in the perspective of the people has changed the way I’ve approached software development. I want to apply all the values and insights I’ve gained to <span className="about-accents">continue delivering work that is objectively structured, as well as subjectively meaningful to a wide spectrum of users.</span> Having the opportunity to do this for a small to mid-sized company would be an absolute dream. </p>
                     
                     </div>
                </div>

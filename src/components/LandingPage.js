@@ -5,9 +5,9 @@ import KevinHome from '../KevinHome.png'
 
 function LandingPage() {
 
-     const resumeButton = () => {
-          alert('TBA - Sorry about that!')
-     }
+     // const resumeButton = () => {
+     //      alert('TBA - Sorry about that!')
+     // }
 
 
      return (
@@ -20,7 +20,7 @@ function LandingPage() {
                               <a href="#Projects">Projects</a>
                               <a href="#Contact">Contact</a>
                               {/* <button className="resume" onClick={resumeButton}>Resume</button> */}
-                              <a href="#LandingPage" className="resume" onClick={resumeButton}>Resume</a>
+                              <a href="https://drive.google.com/file/d/1ibcZg4aKwkamiGJtr4BCL2yFeXZCwqLD/view?usp=sharing" className="resume">Resume</a>
                          </div>
                     </nav>
                </div>
