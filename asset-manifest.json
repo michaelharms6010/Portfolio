@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.a36cfbc4.chunk.css",
-    "main.js": "/Portfolio/static/js/main.fc8abb50.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.fc8abb50.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.78ff581e.chunk.css",
+    "main.js": "/Portfolio/static/js/main.156d0bde.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.156d0bde.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.29d4378a.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.29d4378a.js.map",
-    "static/js/2.5266cb4b.chunk.js": "/Portfolio/static/js/2.5266cb4b.chunk.js",
-    "static/js/2.5266cb4b.chunk.js.map": "/Portfolio/static/js/2.5266cb4b.chunk.js.map",
+    "static/js/2.567968b3.chunk.js": "/Portfolio/static/js/2.567968b3.chunk.js",
+    "static/js/2.567968b3.chunk.js.map": "/Portfolio/static/js/2.567968b3.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.410bf9761080ad795563781a4c32a7e3.js": "/Portfolio/precache-manifest.410bf9761080ad795563781a4c32a7e3.js",
+    "precache-manifest.f64dc15efe53f3f756a422719f2548bb.js": "/Portfolio/precache-manifest.f64dc15efe53f3f756a422719f2548bb.js",
     "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/main.a36cfbc4.chunk.css.map": "/Portfolio/static/css/main.a36cfbc4.chunk.css.map",
+    "static/css/main.78ff581e.chunk.css.map": "/Portfolio/static/css/main.78ff581e.chunk.css.map",
     "static/media/BookrBook.JPG": "/Portfolio/static/media/BookrBook.b3ba4c89.JPG",
     "static/media/BookrList.jpeg": "/Portfolio/static/media/BookrList.9c6ff114.jpeg",
     "static/media/CroppedProfile.png": "/Portfolio/static/media/CroppedProfile.89347a18.png",
@@ -22,6 +22,8 @@
     "static/media/Logo.png": "/Portfolio/static/media/Logo.45a573fd.png",
     "static/media/Marvel1.png": "/Portfolio/static/media/Marvel1.a916c87b.png",
     "static/media/ReactIcon.svg": "/Portfolio/static/media/ReactIcon.f0793d9f.svg",
-    "static/media/Twitter.svg": "/Portfolio/static/media/Twitter.0106ee41.svg"
+    "static/media/Twitter.svg": "/Portfolio/static/media/Twitter.0106ee41.svg",
+    "static/media/airbnb4.png": "/Portfolio/static/media/airbnb4.55d48f73.png",
+    "static/media/node.png": "/Portfolio/static/media/node.d42672d4.png"
   }
 }

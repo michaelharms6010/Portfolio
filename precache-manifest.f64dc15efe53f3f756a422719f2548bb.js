@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4d2987f476de001597d863296fe5a94",
+    "revision": "4bc05b89bd186bf4ce83e5af9ea84363",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "538592ca6c3c04fefb83",
-    "url": "/Portfolio/static/css/main.a36cfbc4.chunk.css"
+    "revision": "84e4e08bf21a81dd7708",
+    "url": "/Portfolio/static/css/main.78ff581e.chunk.css"
   },
   {
-    "revision": "c98708c1a490065cff9b",
-    "url": "/Portfolio/static/js/2.5266cb4b.chunk.js"
+    "revision": "fc8ce7425db728fef108",
+    "url": "/Portfolio/static/js/2.567968b3.chunk.js"
   },
   {
-    "revision": "538592ca6c3c04fefb83",
-    "url": "/Portfolio/static/js/main.fc8abb50.chunk.js"
+    "revision": "84e4e08bf21a81dd7708",
+    "url": "/Portfolio/static/js/main.156d0bde.chunk.js"
   },
   {
     "revision": "bc64031263b6daf9e767",
@@ -66,5 +66,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0106ee410e86b324bfa0a342539e356c",
     "url": "/Portfolio/static/media/Twitter.0106ee41.svg"
+  },
+  {
+    "revision": "55d48f73f10a3b695fc0cbfa983b0ed7",
+    "url": "/Portfolio/static/media/airbnb4.55d48f73.png"
+  },
+  {
+    "revision": "d42672d4d185739d26257ed5c653c740",
+    "url": "/Portfolio/static/media/node.d42672d4.png"
   }
 ]);
