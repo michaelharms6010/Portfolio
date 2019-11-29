@@ -4,6 +4,8 @@ import BookrList from '../BookrList.jpeg'
 import BookrBook from '../BookrBook.JPG'
 import Marvel1 from '../Marvel1.png'
 import ReactIcon from '../ReactIcon.svg'
+import airbnb from '../airbnb4.png'
+import node from '../node.png'
 
 
 
@@ -26,6 +28,26 @@ function Project() {
                     <h2 className="project-title">Projects</h2>
                     <h4>Here are a couple projects I've been working on. </h4>
                     <h4>If you'd like to see more, click <a href="https://github.com/kevinnguyen805">here</a> </h4>
+               </div>
+
+               {/* Airbnb */}
+               <div className="individual-project">
+                    <div className="immunify-picture" id="airbnb">
+                         <img src={airbnb} />
+                    </div>
+
+                    <div className="content">
+                         <h3 className="project-headline">AirBnB Price Optimizer</h3>
+                         <h4 className="project-subheadline" id="airbnb-subheadline">Lambda Build Week</h4>
+                         <p>AirBnB Price Optimizer utilizes past AirBnB datasets to determine the optimal pricing of an AirBnB unit based upon features such as geographic location, size, bedrooms, etc. </p>
+                         <div className="tech-stack" id="node-stack">
+                              <img className="code-icon" src={node} id="node" />
+                         <p>Tech stack: Node.Js, Express, SQL, Knex.Js, Machine Learning, React</p>
+
+                         </div>
+                         <a href="https://airbnb-optimizedpricing.now.sh/"><button className="project-button">View</button></a>
+                         <a href="https://github.com/AirBnB-Optimal-Price-1-LS/Back-End"><button className="project-code-button">Code</button></a>
+                    </div>
                </div>
 
                {/* Immunify */}

@@ -499,6 +499,25 @@ nav a:hover{
   }
 }
 
+#airbnb{
+  padding:0;
+    box-shadow: 0 15px 20px rgba(0,0 ,0, .25);
+    /* border-radius:5px; */
+}
+#airbnb-subheadline{
+  margin-top:6px;
+}
+#node{
+  width:55px;
+  height:100%;
+}
+#node-stack{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+}
+
+
 
 
 
