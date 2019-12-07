@@ -1,7 +1,7 @@
 import React from 'react'
 import Logo from '../Logo.png'
 import KevinHome from '../KevinHome.png'
-
+import Fade from 'react-reveal/Fade';
 
 function LandingPage() {
 
@@ -11,28 +11,28 @@ function LandingPage() {
 
 
      return (
-          <div id="LandingPage">
+          
+          <div id="home">
                <div className="nav-bar">
                     <nav>
-                         <a href="#LandingPage"><img className="logo-home" src={KevinHome} alt="Home logo" /></a>
+                         <a href="#home"><img className="logo-home" src={KevinHome} alt="Home logo" /></a>
                          <div className='nav-link-container'>
-                              <a href="#AboutMe">About</a>
-                              <a href="#Projects">Projects</a>
-                              <a href="#Contact">Contact</a>
-                              {/* <button className="resume" onClick={resumeButton}>Resume</button> */}
+                              <a href="#about">About</a>
+                              <a href="#projects">Projects</a>
+                              <a href="#contact">Contact</a>
                               <a href="https://drive.google.com/file/d/1ibcZg4aKwkamiGJtr4BCL2yFeXZCwqLD/view?usp=sharing" className="resume">Resume</a>
                          </div>
                     </nav>
                </div>
-               <div className="logo-container"><img src={Logo} alt="logo" className="logo" />
+               <Fade top>
+               <div className="logo-container">
+                    <img src={Logo} alt="logo" className="logo" />
                </div>
-
-
-
-
+             
                <div className="landing-page-button-container">
                     <a href="#AboutMe"><button className="landing-page-button">PROCEED</button></a>
                </div>
+               </Fade>
           </div>
      )
 }

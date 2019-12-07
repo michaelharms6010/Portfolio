@@ -27,6 +27,7 @@ nav a{
   color:white;
   font-size:1.25rem;
   padding:7px;
+  transition:0.25s;
 }
 nav:hover{
   opacity:1;
@@ -35,7 +36,6 @@ nav a:hover{
   text-decoration:underline;
   transform:scale(1.25);
   transition: .3s cubic-bezier(0.2,0.8,0.2,1);
-  
 }
 .nav-link-container{
   width:40%;
@@ -125,13 +125,13 @@ nav a:hover{
   max-width:1240px;
   display:flex;
   justify-content:center;
-  opacity:0;
+  /* opacity:0;
      animation: LogoAnimation;
      animation-duration: 1.5s;
      animation-fill-mode:forwards;
-     animation-timing-function:cubic-bezier(0.2,0.8,0.2,1)
+     animation-timing-function:cubic-bezier(0.2,0.8,0.2,1) */
 }
-@keyframes LogoAnimation {
+/* @keyframes LogoAnimation {
      0% {
           opacity: 0;
           transform: translateY(40px);
@@ -140,7 +140,7 @@ nav a:hover{
           opacity: 1;
           transform: translateY(0px);
      }
-}
+} */
 @media only screen and (max-width: 500px){
   .logo-container{
     padding-top:50px;
@@ -155,8 +155,6 @@ nav a:hover{
 }
 
 
-
-
 /* * Landing Button */
  .landing-page-button-container{
   text-align:center;
@@ -167,7 +165,7 @@ nav a:hover{
   font-size:1rem;
   color:white;
   font-weight:500;
-  width:25%;
+  width:250px;
   text-decoration:none;
   border-radius:20px;
   background: linear-gradient(93deg, #f96259, #ff5f6d, #ff9068);
@@ -211,7 +209,7 @@ nav a:hover{
 
 /* * About Me section */
 .about-container{
-  margin:10% auto;
+  margin:15% auto;
   padding-top:8%;
   max-width:1000px;
   width:100%;
@@ -388,12 +386,12 @@ nav a:hover{
   color:white;
   font-size:1rem;
   font-weight:500;
+  transition:0.25s;
 }
 .project-button:hover{
   background: linear-gradient(to right, #f96259, #ff9068);
-  transition: .5s ease-in;
-  transform: translatey(-3px);
-
+  transition: .5s ease;
+  transform: translatey(-5px);
 }
 .project-code-button{
   width:100px;
@@ -404,10 +402,11 @@ nav a:hover{
   font-size:1rem;
   font-weight:500;
   margin-left:20px;
+  transition:0.25s;
 }
 .project-code-button:hover{
-   transition: .5s ease-in;
-  transform: translatey(-3px);
+   transition: .5s ease;
+  transform: translatey(-5px);
 }
 
 .tech-stack{
@@ -549,9 +548,12 @@ nav a:hover{
   box-shadow: 0 15px 20px rgba(0,0 ,0, .25);
   border-radius:50%;
 }
+.contact-icon{
+  transition:0.25s;
+}
 .contact-icon:hover{
   transition: .25s ease-in;
-  transform: translatey(-7px);
+  transform: translatey(-10px);
 }
 .contact-container button{
   border:none;

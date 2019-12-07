@@ -3,6 +3,7 @@ import Github from '../Github.png'
 import Twitter from '../Twitter.svg'
 import Email from '../Email.svg'
 import LinkedInIcon from '../LinkedInIcon.svg'
+import Fade from 'react-reveal/Fade';
 
 function Contact() {
 
@@ -12,14 +13,14 @@ function Contact() {
 
 
      return (
-          <div className="contact-container" id="Contact">
+          <div className="contact-container" id="contact">
 
                <div className="project-header">
                     <h3 className="project-title">Contact</h3>
                     <h4>Let's stay in touch. Reach me through any of these platforms at any time. </h4>
                </div>
 
-
+               <Fade left cascade>
                <div className="contact-icon-container">
                     <a href="https://github.com/kevinnguyen805">
                          <div className="contact-icon">
@@ -46,7 +47,7 @@ function Contact() {
                     </div>
 
                </div>
-
+               </Fade>
 
 
 
