@@ -30,7 +30,7 @@ function LandingPage() {
                </div>
              
                <div className="landing-page-button-container">
-                    <a href="#AboutMe"><button className="landing-page-button">PROCEED</button></a>
+                    <a href="#about"><button className="landing-page-button">PROCEED</button></a>
                </div>
                </Fade>
           </div>
